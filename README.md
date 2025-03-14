@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <title>Trang Web Đơn Giản</title>
+    <title>quanganrauxanh</title>
     <link rel="stylesheet" href="quangg.css">
 </head>
 <body>
